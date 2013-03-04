@@ -79,3 +79,9 @@ running these searches.*
 **Search** `href="(http://)?(www.)?{domain}`
 
 **Replace** `href="/`
+
+Change the email address for the user to something provisioned for their SunBlogNuke blog.
+
+## Finally
+
+Now you are ready to migrate to SunNukeBlog in Admin panel and Migrate.
